@@ -1,3 +1,4 @@
 *.log
 static.txt
 /dir
+db.accdb
